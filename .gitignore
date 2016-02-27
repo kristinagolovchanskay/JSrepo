@@ -1,0 +1,9 @@
+/.idea/
+/~dump/
+/assets/
+/tmp/
+/protected/runtime/debug/
+/uploads/
+/mail/
+*.txt
+node_modules/
